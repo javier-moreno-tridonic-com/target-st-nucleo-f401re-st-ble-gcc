@@ -11,6 +11,7 @@
       "type": "Apache-2.0"
     }
   ],
+  "toolchain": "CMake/toolchain.cmake",
   "keywords": [
     "x-nucleo-idb0xa1"
   ],
