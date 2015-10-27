@@ -1,6 +1,6 @@
 {
   "name": "st-nucleo-f401re-st-ble-gcc",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "inherits": {
     "st-nucleo-f401re-gcc": "*"
   },
